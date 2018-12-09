@@ -5,4 +5,4 @@
 90后java程序猿一枚，热爱开源，比较忙。
 
 
-![wx](/style/images/wx.JPG)
+![wx](../style/images/wx.JPG)
